@@ -1,0 +1,39 @@
+_repo: Pamela-or-Virtue-Rewarded_6124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+description: For a fascinating glimpse into eighteenth-century morals and values,
+  take a look at Samuel Richardson's Pamela, or Virtue Rewarded. A blockbuster of
+  a bestseller in its day, Pamela recounts the tribulations of a poor housekeeper
+  who is forced constantly to fend off the prurient advances of her employer. Her
+  reward? Pamela is offered -- and accepts -- her lustful master's hand in marriage
+  and is thrust into upper-class society.
+gutenberg_bookshelf:
+- Opera
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Women household employees -- Fiction'
+- !lcsh 'Virtue -- Fiction'
+- GITenberg
+title: Pamela, or Virtue Rewarded
+url: http://www.gutenberg.org/ebooks/6124
