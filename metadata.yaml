@@ -1,5 +1,8 @@
 _repo: Pamela-or-Virtue-Rewarded_6124
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, Samuel
@@ -14,6 +17,8 @@ description: For a fascinating glimpse into eighteenth-century morals and values
   who is forced constantly to fend off the prurient advances of her employer. Her
   reward? Pamela is offered -- and accepts -- her lustful master's hand in marriage
   and is thrust into upper-class society.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6124#Pamela-or-Virtue-Rewarded
 gutenberg_bookshelf:
 - Opera
 - Banned Books from Anne Haight's list
